@@ -1,0 +1,12 @@
+# Simulation executables
+*_sim
+exhaustive_sim
+
+# Simulation output
+*.vcd
+
+# Log files
+*.log
+
+# macOS files
+.DS_Store
