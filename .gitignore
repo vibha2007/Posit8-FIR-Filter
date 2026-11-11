@@ -1,12 +1,15 @@
-# Simulation executables
-*_sim
-exhaustive_sim
-
-# Simulation output
-*.vcd
-
-# Log files
-*.log
-
 # macOS files
 .DS_Store
+
+# Simulation output files
+*.out
+*.vcd
+
+# Compiled simulation executables
+*_sim
+
+# Yosys log files
+*.log
+
+# Temporary files
+*.tmp
